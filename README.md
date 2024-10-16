@@ -162,7 +162,7 @@ You can program a wide variety of devices with eBlock, and if you want to use eB
 
 Please can contribute to add more devices to the list, you can view current avaliable devices in the next repo:
 
-[https://github.com/distintiva/eBlock-devices#readme](https://github.com/distintiva/eBlock-devices#readme)
+[https://github.com/enteropositivo/eBlock-devices#readme](https://github.com/enteropositivo/eBlock-devices#readme)
 
 
 ## Extensions
@@ -196,7 +196,7 @@ ext.getJoystick = function(nextID, coord){
 Portable version, no installer, only unzip and exec **eBlock.exe** 
 Download the latest eBlock version from:
 
-[eBlock-windows (27Mb)](https://github.com/distintiva/eBlock/releases/latest/download/eBlock-win.zip)
+[eBlock-windows (27Mb)](https://github.com/enteropositivo/eBlock/releases/latest/download/eBlock-win.zip)
 
 
 
@@ -215,10 +215,7 @@ Download the latest eBlock version from:
 - [**mBloc 3.4.5 source**](https://github.com/Makeblock-official/mBlock) as a base for eBlock  
 - [**Arduino List Library**](https://github.com/luisllamasbinaburo/Arduino-List) - by Luis Llamas ( @luisllamas )
 - [**RTTTL NonBlocking lib**](https://github.com/end2endzone/NonBlockingRTTTL) - forked from https://github.com/end2endzone/NonBlockingRTTT
-- [**Distintiva micro:bit lib**](https://github.com/distintiva/distintiva_microbit_lib) - use micro:bit with arduino compiler
+- [**Distintiva micro:bit lib**](https://github.com/enteropositivo/arduino_microbit_lib) - use micro:bit with arduino compiler
 
 
 
-## Contribute
-
-If you want to contribute adding more devices, extensions, help to port to Linux or Mac ...  you can contact us at info@distintivasolutions.com
